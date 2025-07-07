@@ -59,7 +59,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: url('./images/7b708dc211e2af1eb6a5ca79b4154a62740357c1.jpg') no-repeat center center/cover;
+    background: url('7b708dc211e2af1eb6a5ca79b4154a62740357c1.jpg') no-repeat center center/cover;
     color: white;
     padding: 60px 30px;
     display: flex;
@@ -209,7 +209,7 @@ body {
 }
 
 .green-highlight {
-    background: url('./images/2.png') no-repeat center center/cover;
+    background: url('2.png') no-repeat center center/cover;
     padding: 90px 30px;
 }
 
@@ -313,7 +313,7 @@ body {
 
 .repairs {
     position: relative;
-    background-image: url('./images/6.png');
+    background-image: url('6.png');
     background-size: cover;
     background-position: center;
     height: 300px;
